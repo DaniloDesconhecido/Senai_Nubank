@@ -25,7 +25,7 @@ Recriando interface do Nubank. Disciplina de Mobile Senai
 
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-<img src="./doc/levi.jpg" width="100px">  | Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com
+[Foto]() | Danilo de Jesus | [Danilo Desconhecido](https://github.com/DaniloDesconhecido) | [Linkedin]() | rapform@gmail.com
 
 ## :computer: Tecnologias
 
@@ -56,7 +56,7 @@ Lançado em 2020.
 Este projeto está sob a [MIT license](https://github.com/rafaellevissa/nubank_Interface/blob/master/LICENSE).
 
 <p align="center">
-    Feito com :heart: por <a href="https://github.com/rafaelevissa">Rafael Levi</a>
+    Feito com :heart: por <a href="https://github.com/DaniloDesconhecido">Danilo</a>
 </p>
 
 <!-- Markdown link & img dfn's -->
